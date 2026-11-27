@@ -1,0 +1,8 @@
+# MetaShopPro License & Update Manifest (Managed via Admin Panel)
+VERSION=1.0
+UPDATE_VERSION=1
+FORCE_UPDATE=false
+UPDATE_URL=https://t.me/Metashoppro77
+UPDATE_MSG=New update available! Please join Telegram to download.
+
+MSPSO-D7C6-3B35-BA04-BDC8 | EXP=2026-12-04T17:26:36Z | PLAN=7D | NAME=Milon Sheikh
